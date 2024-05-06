@@ -1,0 +1,23 @@
+SMAP
+UpdateCategory_jsp.java
+JSP
+*S JSP
+*F
++ 0 UpdateCategory.jsp
+UpdateCategory.jsp
++ 1 Header.jspf
+Header.jspf
++ 2 Footer.jsp
+Footer.jsp
+*L
+5,7:60
+1#1:67
+2:255,8
+3:263,6
+4,61:70
+11#0,2:130
+13:132,3
+14,25:135
+5#2,75:160
+38#0,4:234
+*E
